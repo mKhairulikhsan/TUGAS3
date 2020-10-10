@@ -47,6 +47,7 @@ WiFi adalah Jaringan Area Lokal atau LAN (Local Area Network) yang tidak memerlu
 ![Image](gambar10.JPG)
 
 
+
 #PENGERTIAN SINGKAT ENCODING
 Encoding adalah penyandian atau proses untuk mengubah sinyal asal, ke dalam bentuk yang lebih otpimal untuk keperluan komunikasi data dan penyimpanan data. 
 Misalnya satu byte data terdiri dari 8 bit jajar. Untuk mengirimkan data bit jajar ini memerlukan 8 saluran kanal pengirim dan 8 saluran kanal penerima. Karena ini tidak efisien, maka informasi harus di encoding atau disandikan kedalam bentuk data deret sehingga kita bisa mengirim sinyal hanya dengan satu kanal pengirim dan satu kanal penerima. 
@@ -55,3 +56,7 @@ Dalam hal ini sebagai contoh mengubah sinyal bit deret menjadi sinyal bit data j
 Sama juga untuk menyimpan data kedalam harddisk, harus di encoding dalam bentuk data deret. Tanpa encoding, diperlukan 8 harddisk yang bekerja sinkron yang mana itu mustahil. 
 Tapi kalau untuk video, biasanya encoding itu mengecilkan atau mencompresi file dan decoding itu mengekstrak kedalam bentuk file asalnya.
 
+![Image](gambar11.webp)
+
+
+#SELAMAT MEMBACA :)
