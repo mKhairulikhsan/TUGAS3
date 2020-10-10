@@ -45,6 +45,7 @@ WiFi adalah Jaringan Area Lokal atau LAN (Local Area Network) yang tidak memerlu
 
 ![Image](gambar9.jpg)
 ![Image](gambar10.JPG)
+.
 
 
 
