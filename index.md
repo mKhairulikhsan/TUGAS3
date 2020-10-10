@@ -45,11 +45,11 @@ WiFi adalah Jaringan Area Lokal atau LAN (Local Area Network) yang tidak memerlu
 
 ![Image](gambar9.jpg)
 ![Image](gambar10.JPG)
-.
 
 
 
-#PENGERTIAN SINGKAT ENCODING
+
+# PENGERTIAN SINGKAT ENCODING
 Encoding adalah penyandian atau proses untuk mengubah sinyal asal, ke dalam bentuk yang lebih otpimal untuk keperluan komunikasi data dan penyimpanan data. 
 Misalnya satu byte data terdiri dari 8 bit jajar. Untuk mengirimkan data bit jajar ini memerlukan 8 saluran kanal pengirim dan 8 saluran kanal penerima. Karena ini tidak efisien, maka informasi harus di encoding atau disandikan kedalam bentuk data deret sehingga kita bisa mengirim sinyal hanya dengan satu kanal pengirim dan satu kanal penerima. 
 Decoding adalah mengekstrak data yang telah di encoding tadi ke dalam bentuk sinyal asli atau asalnya. 
