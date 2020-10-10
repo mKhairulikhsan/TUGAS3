@@ -16,11 +16,13 @@ Untuk ketinggian sendiri sinyal radio harus memiliki ketinggian yang sama untuk 
 Maka dari itu contoh RADIO AP memiliki ketinggian 40meter maka RADIO STATION harus memiliki ketinggian yang serupa agar sinyal bisa dengan mudah tersambung. 
 
 Oke kali ini sedikit akan saya paparkan/jelaskan pengalamn say sewaktu bekerja sebagai IT NETWORK PROVIDER 
-![Image](gambar2.jpg)
+![Image](gambar5.jpg)
 Nah untuk di gambar ini saya menggunakan frequency 5780,dan untk channel saya pakai chnel 40Mhz di Acces point untk STATION sudah pasti saya samakan teman"bisa lihat sendiri di gambar ya. 
 Untk frequency saya menggunakan radio dari UBNT memeiliki lumayan bnyk frequency dari 4000-6000an FREQUENCY.
 Dan untuk chnnel sendiri ada dari. Channel 20Mhz sampai 40Mhz
 
+![Image](gambar2.jpg)
+Nah dari gambar di atas itu adalah radio dari UBNT yang sedang di rakit
 
 
 # INFRARED
