@@ -44,4 +44,4 @@ WIFI adalah singkatan dari “Wireless Fidelity” yaitu suatu teknologi komunik
 WiFi adalah Jaringan Area Lokal atau LAN (Local Area Network) yang tidak memerlukan kabel dengan koneksi kecepatan yang tinggi. WiFi sering disebut juga dengan WLAN atau Wireless Local Area Network.  Sinyal Radio adalah kunci yang memungkinan komunikasi dalam jaringan WiFi. Teknologi WiFi ini menggunakan dua frekuensi gelombang radio dalam mengirimkan dan menerima sinyal Radio. Kedua Frekuensi gelombang radio tersebut adalah Frekuensi 2,4GHz dan 5GHz.
 
 ![Image](gambar9.jpg)
-![Image](gambar10.jpg)
+![Image](gambar10.JPG)
