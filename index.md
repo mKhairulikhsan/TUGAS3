@@ -35,9 +35,13 @@ Bluetooth adalah suatu peralatan media komunikasi yang dapat digunakan untuk men
 
 # DEFENISI Bluetooth
 adalah sebuah teknologi komunikasi wireless atau tanpa kabel yang beroperasi dalam pita frekuensi 2,4 GHz (antara 2.402 GHz s/d 2.480 GHz) dengan menggunakan sebuah frequency hopping tranceiver yang mapu menyediakan layanan komunikasi data dan juga suara secara real-time antara host-host bluetooth dengan jarak jangkauan layanan yang terbatas.
+![Image](gambar8.jpg)
 
 # DEFENISI WIFI DAN PENGERTIANNYA
 WIFI adalah singkatan dari “Wireless Fidelity” yaitu suatu teknologi komunikasi nirkabel yang memanfaatkan gelombang radio untuk menghubungkan dua perangkat atau lebih untuk dapat saling bertukar informasi. WIFI atau sering ditulis dengan “Wi-Fi” ini pertama kali ditemukan oleh perusahaan NCR Corporation dan AT&T pada tahun 1991 untuk sistem kasir. Namun Saat ini, teknologi WIFI ini telah banyak digunakan pada perangkat mobile seperti Smartphone dan Laptop hingga ke perangkat elektronik lainnya seperti Televisi, DVD Player, Digital Kamera, Printer, Konsol Game dan bahkan lebih luas lagi hingga ke perangkat rumah tangga lainnya seperti Lampu, Kulkas dan Pengatur Suhu (AC).
 
 ## Cara Kerja WiFi
 WiFi adalah Jaringan Area Lokal atau LAN (Local Area Network) yang tidak memerlukan kabel dengan koneksi kecepatan yang tinggi. WiFi sering disebut juga dengan WLAN atau Wireless Local Area Network.  Sinyal Radio adalah kunci yang memungkinan komunikasi dalam jaringan WiFi. Teknologi WiFi ini menggunakan dua frekuensi gelombang radio dalam mengirimkan dan menerima sinyal Radio. Kedua Frekuensi gelombang radio tersebut adalah Frekuensi 2,4GHz dan 5GHz.
+
+![Image](gambar9.jpg)
+![Image](gambar10.jpg)
