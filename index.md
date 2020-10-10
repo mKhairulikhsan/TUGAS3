@@ -15,6 +15,8 @@ Untuk di bagian radio saya akan terangkan sedikit bagaimana cara penggunaan nya 
 Untuk ketinggian sendiri sinyal radio harus memiliki ketinggian yang sama untuk radio ACCESPOINT dan radio STATION nya sendiri karena apabila ketinggian tidak pas maka akan sulit untk radio saling konek dan bisa sinyal yang di hasilkan tidak sesuai seperti yang kita harapkan. 
 Maka dari itu contoh RADIO AP memiliki ketinggian 40meter maka RADIO STATION harus memiliki ketinggian yang serupa agar sinyal bisa dengan mudah tersambung. 
 
+Oke kali ini sedikit akan saya paparkan/jelaskan pengalamn say sewaktu bekerja sebagai IT NETWORK PROVIDER 
+![Image]()
 
 
 # INFRARED
